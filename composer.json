@@ -20,7 +20,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Dompdf\\": "src/"
+            "dompdf-Arabic-Support\\": "src/"
         },
         "classmap": [
             "lib/"
@@ -28,7 +28,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "Dompdf\\Tests\\": "tests/"
+            "dompdf-Arabic-Support\\Tests\\": "tests/"
         }
     },
     "require": {
