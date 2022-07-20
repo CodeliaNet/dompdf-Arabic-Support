@@ -89,7 +89,8 @@ To install with [Composer](https://getcomposer.org/), simply require the
 latest version of this package.
 
 ```bash
-composer require dompdf/dompdf
+composer require CodeliaNet/dompdf-Arabic-Support
+
 ```
 
 Make sure that the autoload file from Composer is loaded.
